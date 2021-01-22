@@ -6,6 +6,8 @@ This is random text in the body
 
 **bold** text by adding double asterisks around a word
 
+*italic* using single asterisk
+
 Lists are done with dashses
 - item 1
 - item 2
